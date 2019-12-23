@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Augmented</folder>
+	<filename>126.jpg</filename>
+	<path>/home/vivekananda/Downloads/Augmented/126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>29</ymin>
+			<xmax>276</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
