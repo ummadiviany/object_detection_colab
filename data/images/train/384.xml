@@ -1,0 +1,38 @@
+<annotation>
+	<folder>plantdata</folder>
+	<filename>384.jpg</filename>
+	<path>C:\Users\Aravind GAV\Desktop\plantdata\384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>46</ymin>
+			<xmax>233</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>32</ymin>
+			<xmax>112</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

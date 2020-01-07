@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Labeling</folder>
+	<filename>163.jpg</filename>
+	<path>/home/irfan/Desktop/Labeling/163.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>74</ymin>
+			<xmax>298</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

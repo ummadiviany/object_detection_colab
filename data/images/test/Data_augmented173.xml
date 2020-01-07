@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New Folder</folder>
+	<filename>Data_augmented173.jpg</filename>
+	<path>/home/vinay/Desktop/AAR/New Folder/Data_augmented173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>39</ymin>
+			<xmax>176</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>205</ymin>
+			<xmax>241</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

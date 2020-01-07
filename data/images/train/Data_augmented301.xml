@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Data_augmented301.jpg</filename>
+	<path>C:\Users\Aravind GAV\Documents\project\botplant\train\Data_augmented301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>150</ymin>
+			<xmax>202</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>4</ymin>
+			<xmax>203</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

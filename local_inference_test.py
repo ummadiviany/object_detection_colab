@@ -15,6 +15,7 @@ import zipfile
 from collections import defaultdict
 from io import StringIO
 from PIL import Image
+import cv2
 from object_detection.utils import ops as utils_ops
 
 
@@ -46,7 +47,7 @@ if __name__ == "__main__":
     image_path = args.img
 
     assert os.path.isfile(PATH_TO_CKPT)
-    assert os.path.isfile(image_path)
+    #assert os.path.isfile(image_path)
 
     detection_graph = tf.Graph()
     with detection_graph.as_default():
